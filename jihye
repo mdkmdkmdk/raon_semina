@@ -508,9 +508,9 @@ Warning: This script has no way to validate that your shellcode is 32 vs. 64-bit
         
 
 
-        {
+        
         Inject-LocalShellcode
-        }
+        
     }   
 }
 
